@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/my_Portfolio_web/static/css/main.f87003e3.css",
-    "main.js": "/my_Portfolio_web/static/js/main.c555c841.js",
+    "main.css": "/my_Portfolio_web/static/css/main.2f3886e5.css",
+    "main.js": "/my_Portfolio_web/static/js/main.1d99ef55.js",
     "static/js/453.1407b060.chunk.js": "/my_Portfolio_web/static/js/453.1407b060.chunk.js",
     "static/media/myProfile-modified.png": "/my_Portfolio_web/static/media/myProfile-modified.154d93841cbb77f1837d.png",
     "static/media/myImage.jpg": "/my_Portfolio_web/static/media/myImage.f3336d725c332646adbe.jpg",
     "static/media/Ecomerce.jpg": "/my_Portfolio_web/static/media/Ecomerce.f30616842d7c64805a0a.jpg",
     "static/media/imageG.jpg": "/my_Portfolio_web/static/media/imageG.af924bf3e8047e90e562.jpg",
+    "static/media/BCim.jpg": "/my_Portfolio_web/static/media/BCim.e2c22235dc2a0436a8c2.jpg",
     "index.html": "/my_Portfolio_web/index.html",
-    "main.f87003e3.css.map": "/my_Portfolio_web/static/css/main.f87003e3.css.map",
-    "main.c555c841.js.map": "/my_Portfolio_web/static/js/main.c555c841.js.map",
+    "main.2f3886e5.css.map": "/my_Portfolio_web/static/css/main.2f3886e5.css.map",
+    "main.1d99ef55.js.map": "/my_Portfolio_web/static/js/main.1d99ef55.js.map",
     "453.1407b060.chunk.js.map": "/my_Portfolio_web/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f87003e3.css",
-    "static/js/main.c555c841.js"
+    "static/css/main.2f3886e5.css",
+    "static/js/main.1d99ef55.js"
   ]
 }
